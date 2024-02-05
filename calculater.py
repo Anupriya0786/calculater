@@ -22,3 +22,6 @@ print("subtraction=",a-b)
 print("division=",a/b)
 print("remainder=",a%b)
 print("multipliction=",a*b)
+
+
+#calculator3 simple ways:
